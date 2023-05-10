@@ -1,9 +1,9 @@
 Sword and spear
 Wall of shields
 Standing strong
-<<<<<<< HEAD
 On this their chosen battle field
 
-=======
-On this their chosen battle field
->>>>>>> feature
+Form the lines
+Shield by shield
+Side by side
+We're marching into destiny
